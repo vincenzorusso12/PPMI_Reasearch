@@ -1,4 +1,4 @@
-# PPMI Reasearch
+# PPMI Research
 The main goal is to create a system in order to classify in a quick way healthy people from  people suffering from Parkinson's disease.
 We have developed a process based on [Latent Semantic Analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis), which finds hidden meanings in a text. For instance ignoring synonims.
 We have extended the process using a neural network technique [text2vec](http://text2vec.org/) that gives a numerical representation on the documents and finds the most similar.
